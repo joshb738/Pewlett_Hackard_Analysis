@@ -37,7 +37,7 @@ Based on the results we can determine the following key points:
 
 **1.** As the "Silver Tsunami" begins to make an impact, approximately 90,398 employees will be approaching retirement. To help better prepare for the upcoming wave, Pewlett Hackard may also want to consider providing this data to management for the impacted departments.  
 
- - Employees approaching retirement by **Department**
+ - Employees approaching retirement by [**Department**](Data/additional_analysis/retirement_dept.csv)
 
 <kbd><img src="Data/additional_analysis/retiring_departments.PNG"/><kbd>
 
