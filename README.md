@@ -1,6 +1,5 @@
 # Pewlett_Hackard_Analysis
 
-
 ## Project Overview
 
 The following analysis of Pewlett Hackard human resources data was performed to provide further insight into the upcoming "silver tsunami".
@@ -36,8 +35,14 @@ Based on the results we can determing the follwing:
 
 ## Summarry 
 
-1. As the "Silver Tsunami" begins to make an impact, approximately 90,398 employees will be approaching retirment. Additional analysis providing a breakdown of all the upcoming employees with their associated departments may be usefull in provid further  better prepare for the upcoming wave. 
-- Employees approaching retirement by 
+1. As the "Silver Tsunami" begins to make an impact, approximately 90,398 employees will be approaching retirment. To help better prepare for the upcoming wave, Pewlett Hackard may also want to consider providing this data to managment for the impacted departments. 
 
-2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Based on the current criteria for the mentorship program, there are only 1,549 employyes that qualify. Pewlett Hackard may want to consider expanding the current eligibilty birthdate range to allow for additional employees to mentor the next Generation 
+- Employees approaching retirement by **Department**
+
+<kbd><img src="Data/additional_analysis/retiring_departments.PNG"/><kbd>
+
+2. Based on the current criteria for the mentorship program, there are only 1,549 employyes that qualify. Pewlett Hackard may want to consider expanding the criteria for eligiblity to allow for additional employees to mentor the next Generation.
+
+- Mentorship program eligibility is based on employees born between **January 01, 1963 - December 31, 1965**
+
+<kbd><img src="Data/additional_analysis/expanded_titles.PNG"/><kbd>
