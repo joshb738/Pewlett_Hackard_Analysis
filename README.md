@@ -33,7 +33,7 @@ Based on the results we can determine the following key points:
 - Approximately **48.3%** of the employees approaching retirement are in *Engineering Roles*.
 - A total of **1,549** employees are eligible to participate in the mentorship program.  
 
-## Summarry 
+## Summary
 
 **1.** As the "Silver Tsunami" begins to make an impact, approximately 90,398 employees will be approaching retirement. To help better prepare for the upcoming wave, Pewlett Hackard may also want to consider providing this data to management for the impacted departments.  
 
