@@ -46,6 +46,6 @@ The following analysis of Pewlett Hackard human resources data was performed to 
 
  - Mentorship program eligibility is based on employees born between **January 01, 1963 - December 31, 1965**
  - Expanding the birth date range by an additional two years can provide a new total of approximately **38,401** eligible employees for the program.
- - Full list of potential employees available [here](Data/additional_analysis/expanded_mentorship.csv).
+ - Full list of potential employees available [**here**](Data/additional_analysis/expanded_mentorship.csv).
  
 <kbd><img src="Data/additional_analysis/expanded_titles.PNG"/><kbd>
