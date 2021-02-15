@@ -41,6 +41,7 @@ The following analysis of Pewlett Hackard human resources data was performed to 
 
 <kbd><img src="Data/additional_analysis/retiring_departments.PNG"/><kbd>
 
+
 **2.** Based on the current criteria for the mentorship program, there are only 1,549 qualified employees. Pewlett Hackard may want to consider expanding the criteria for program eligibility to allow additional employees the opportunity to begin mentoring the next generation. 
 
  - Mentorship program eligibility is based on employees born between **January 01, 1963 - December 31, 1965**
