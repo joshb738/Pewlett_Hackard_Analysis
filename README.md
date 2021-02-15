@@ -26,7 +26,7 @@ The following analysis of Pewlett Hackard human resources data was performed to 
 
 <kbd><img src="Data/additional_analysis/mentorship_titles.PNG"/><kbd>
 
-Based on the results we can determine the following key points: 
+##### Based on the results we can determine the following key points: 
 
 - A total of **90,398** employees will be approaching retirement. 
 - Approximately **63.8%** off employees approaching retirement are in *Senior Roles*.
